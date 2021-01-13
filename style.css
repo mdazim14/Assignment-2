@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.penguin-navimg{
+    width: 28%;
+}
+.nav-color {
+    background-color: rgb(190, 248, 176);
+}

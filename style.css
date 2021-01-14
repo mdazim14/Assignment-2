@@ -16,3 +16,18 @@ body{
     background-color: white;
     border: none;
 }
+@media (max-width: 991px) { 
+    .rules-and-regulation > .row {
+        display: block;
+    }
+    .responsive-Box{
+        flex-direction: column;
+    }
+    .responsive-Text {
+        text-align: center;
+    }
+
+}
+
+
+

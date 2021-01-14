@@ -1,10 +1,18 @@
 body{
     margin: 0px;
     padding: 0px;
+    font-family: 'Poppins', sans-serif;
 }
 .penguin-navimg{
-    width: 35%;
+    width:  30%;
 }
 .nav-color {
     background-color: rgb(190, 248, 176);
+}
+.penguin-card {
+    border: none;
+}
+.penguin-card-footer {
+    background-color: white;
+    border: none;
 }

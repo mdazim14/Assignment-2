@@ -23,7 +23,7 @@ body{
     .responsive-Box{
         flex-direction: column;
     }
-    .responsive-Text {
+    .box-text > h2, p {
         text-align: center;
     }
 
